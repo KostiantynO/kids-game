@@ -1,0 +1,2 @@
+body{margin:0;background-color:var(--color-bg-body);color:var(--color-body)}:root{--color-bg-body:#212121;--color-body:#eee;--time:250ms;--cubic:cubic-bezier(0.4,0,0.2,1)}.is-hidden{pointer-events:none;visibility:hidden;opacity:.01}.clickable{display:inline-block;font-size:4rem;cursor:pointer;transition:var(--time) var(--cubic);transition-property:transform,visibility,opacity}.clickable.is-hidden{transform:translateX(-200%)}
+/*# sourceMappingURL=/kids-game/css/src.b238ee17.css.map */
