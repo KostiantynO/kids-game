@@ -1,0 +1,10 @@
+.clickable {
+  display: inline-block;
+  font-size: 4rem;
+
+  cursor: pointer;
+
+  &.is-hidden {
+    transform: translateX(-200%);
+  }
+}
