@@ -4,6 +4,9 @@
 
   cursor: pointer;
 
+  transition: var(--time) var(--cubic);
+  transition-property: transform, visibility, opacity;
+
   &.is-hidden {
     transform: translateX(-200%);
   }
